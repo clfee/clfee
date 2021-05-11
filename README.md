@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chia-Fang Lee, a data scientist who enjoys turning raw data to useful information.  
+- 👋 Hi, I’m Chia-Fang Lee, a data scientist who enjoys turning raw data into useful information.  
 
 - 📫 clfee23@gmail.com
 
