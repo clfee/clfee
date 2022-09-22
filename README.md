@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Chia-Fang Lee, a data scientist who enjoys turning raw data into useful information.  
-
-- 📫 clfee23@gmail.com
+- 👋 Hi, I’m Chris Lee, a scientist who enjoys learning new skill & experimenting with new things.  
 
 <!---
 clfee/clfee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
